@@ -77,5 +77,4 @@ plt.title('DBSCAN')
 
 plt.tight_layout()
 plt.savefig('HW10/clustering_results.png')
-print("圖表已儲存至 HW10/clustering_results.png")
 plt.show()
